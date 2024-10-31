@@ -1,5 +1,5 @@
 
-I'm Palguni TR, Artificial Intelligence and Data Science Student.<br>🔍Exploring data and uncovering hidden insights excites me.<br>
+HI👋 I'm Palguni TR, Artificial Intelligence and Data Science Student.<br>🔍Exploring data and uncovering hidden insights excites me.<br>
 
 
 # 💻 Tech Stack:
