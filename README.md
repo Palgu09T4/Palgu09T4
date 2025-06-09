@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>HI👋 I'm Palguni TR, Artificial Intelligence and Data Science Student.<br>🔍Exploring data and uncovering hidden insights excites me.
+HI👋 I'm Palguni TR, Artificial Intelligence and Data Science Student.<br>🔍Exploring data and uncovering hidden insights excites me.
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Palgu09T4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
